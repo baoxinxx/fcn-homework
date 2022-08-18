@@ -18,7 +18,7 @@
 >
 >2. 打开另一个cmd，进入编译环境，输入
 >
->  `python -m visdom.server`
+>```python -m visdom.server```
 >
 >  在运行约1~10个epoch后，将出现visdom的可视化界面入口
 >
