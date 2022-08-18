@@ -1,6 +1,6 @@
 # FCN_Based语义分割
 
-![result example](C:\Users\boasonyang\Desktop\新建文件夹\images\result example.png)
+![result example](images\result example.png)
 
 本仓库对应认知大作业第三题，选择FCN网络搭建并在威尔兹曼马数据集上实验。
 
