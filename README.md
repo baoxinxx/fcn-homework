@@ -1,6 +1,6 @@
 # FCN_Based语义分割
 
-![result example](images\result example.png)
+![result_example](images\result_example.png)
 
 本仓库对应认知大作业第三题，选择FCN网络搭建并在威尔兹曼马数据集上实验。
 
