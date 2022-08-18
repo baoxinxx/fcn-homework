@@ -22,9 +22,9 @@
 >
 >  在运行约1~10个epoch后，将出现visdom的可视化界面入口
 >
->  ![test_loss](C:\Users\boasonyang\Desktop\新建文件夹\images\test_loss.png)
+>  ![test_loss](images/test_loss.png)
 >
->  ![train_loss](C:\Users\boasonyang\Desktop\新建文件夹\images\train_loss.png)
+>  ![train_loss](images/train_loss.png)
 
 ## 数据集
 在training data和ground-truth分别有600张图片（0.jpg ~ 599.jpg）。
