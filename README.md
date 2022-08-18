@@ -6,7 +6,7 @@
 
 搭建了FCN16s、FCN8s和FCN32s，backbone选择VGG。  
 
-##运行环境  
+## 运行环境  
 - Python == 3.5
 - pytorch == 1.0
 - torchvision == 0.3.2
